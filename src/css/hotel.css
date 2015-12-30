@@ -1,0 +1,73 @@
+
+.sections {
+    width:100%;
+}
+.customer {
+    width:58%;
+    float:left;
+    padding:10px;
+    color: darkorange;
+}
+
+.owner {
+    width:38%;
+    float:right;
+    padding:10px;
+    color: darkorange;
+}
+
+body{
+    background-image: url("reserve.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    background-color: darkorange;
+    color:blue;
+    text-align:center;
+    padding:5px;
+}
+
+.btn-primary
+{
+    background-color: darkorange;
+}
+
+footer {
+    background-color: darkorange;
+    color:blue;
+    clear:both;
+    text-align:center;
+    padding:5px;
+
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+.table{
+    margin-bottom: 0px !important;
+}
+
+h3
+{
+    color: darkorange;
+}
+a
+{
+    color:blue;
+}
+table
+{
+    color: blue;
+}
+.btn-success
+{
+    background-color: darkorange;
+    color:blue;
+}
+
+h2
+{
+    color: darkorange;
+}
